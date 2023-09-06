@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pg25tommy
-  Hi, I'm Tommy, 
   Although my roots in the culinary arts and social sciences will forever be a life long interest. 
   I am someone who found their true calling and passion late in life, the world of computer sorcery, programming. 
   It gripped me right away but I just thought it wasn't in the cards for me. So when the opportunity came knocking, 
