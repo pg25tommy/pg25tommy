@@ -57,6 +57,8 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 ### [Lay-Off](https://github.com/yourusername/lay-off)
 A 3rd person, 4-player networked multiplayer trap placement deathmatch game. 
 
+!["Lay_Off"](https://github.com/pg25tommy/pg25tommy/blob/main/layOff%20(1).gif)
+
 ## 🎯 Goals
 - **Rendering and Tech Art**: Aiming to gain a deeper understanding of rendering techniques and technical art.
 - **Advanced Programming**: Seeking to improve overall programming skills for cleaner, more efficient code.
