@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Tommy Minter
+<img src="https://github.com/pg25tommy/pg25tommy/blob/main/Orange%20Simple%20Game%20Linkedin%20Banner.png" alt="Banner" style="width:100%;">
+
+
+# Hi, I'm Tommy Minter your friendly neighborhood game developer.
 
 ## 🎮 About Me
 
@@ -10,11 +13,15 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 
 ## 🛠️ Skills
 
-### Languages
 **Game Programming**
+
+### Engines
 
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+  
+  **Languages**
+  
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![HLSL](https://img.shields.io/badge/HLSL-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -24,6 +31,8 @@ I'm a motivated and passionate newcomer in the game development industry, based 
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+  ### Frameworks
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -57,7 +66,7 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 ### [Lay-Off](https://github.com/yourusername/lay-off)
 A 3rd person, 4-player networked multiplayer trap placement deathmatch game. 
 
-!["Lay_Off"](https://github.com/pg25tommy/pg25tommy/blob/main/layOff%20(1).gif)
+
 
 ## 🎯 Goals
 - **Rendering and Tech Art**: Aiming to gain a deeper understanding of rendering techniques and technical art.
