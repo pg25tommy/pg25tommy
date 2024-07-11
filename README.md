@@ -9,7 +9,7 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 
 - 📧 Email: [tommy@knocktwice.ca](mailto:tommy@knocktwice.ca)
 - 💼 LinkedIn: [Tommy Minter](https://www.linkedin.com/in/tommyminter)
-- 🌐 Portfolio: (https://www.tommyminterdev.com/)
+- 🌐 Portfolio: https://www.tommyminterdev.com/
 
 ## 🛠️ Skills
 
