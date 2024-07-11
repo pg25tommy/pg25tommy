@@ -11,16 +11,14 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 - 💼 LinkedIn: [Tommy Minter](https://www.linkedin.com/in/tommyminter)
 - 🌐 Portfolio: https://www.tommyminterdev.com/
 
-## 🛠️ Skills
-
-**Game Programming**
+# 🛠️ Skills
 
 ### Engines
 
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
   
-  **Languages**
+  ### Languages
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,7 +55,7 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 - **Personal Organization**: Ensuring well-coordinated and executed projects
 - **Work Under Pressure**: Delivering results in high-pressure situations
 
-## 💼 Experience
+# 💼 Experience
 
 ### Programmer and Technical Artist | "Lay-Off"
 - **Vancouver Film School | Names are Hard Studio**
@@ -69,28 +67,28 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 - Developed a classic lines and boxes game.
 - Managed a diverse team, overseeing tasks, conducting code reviews, and ensuring quality.
 
-## 📚 Education
+# 📚 Education
 
 - **Vancouver Film School**: Diploma in Programming for Games, Web, and Mobile
 
 
-## 🚀 Current Project
+# 🚀 Current Project
 
 ### [Lay-Off](https://github.com/vfs-sct/GD72PG25FP-LayOff)
 Lay-Off" is an intense, high-stakes, 3rd person, full-body view, online 4-player multiplayer trap placement deathmatch set in the cutthroat world of espionage. Players assume the roles of elite spies working for an underground agency facing severe budget cuts due to inflation. Forced into a deadly competition to secure their positions, these spies must outsmart and outlast their rivals in a secret base until only one remains.
 
 
 
-## 🎯 Goals
+# 🎯 Goals
 - **Rendering and Tech Art**: Aiming to gain a deeper understanding of rendering techniques and technical art.
 - **Advanced Programming**: Seeking to improve overall programming skills for cleaner, more efficient code.
 - **Leadership and Project Management**: Enhancing leadership abilities to effectively guide teams and manage projects.
 
-## 🌟 Influence
+# 🌟 Influence
 
 - **Advocate for Accessibility**: Committed to raising awareness about accessibility features in game development.
 
-## ⚡ Energizing Factors
+# ⚡ Energizing Factors
 
 - **Accessibility Features**: Ensuring games are playable by a wider audience, especially the ASD community.
 - **Programming**: Continuously improving coding techniques.
@@ -100,5 +98,6 @@ Lay-Off" is an intense, high-stakes, 3rd person, full-body view, online 4-player
 
 ### 📫 Let's Connect!
 
-Feel free to reach out to me via email or connect with me on LinkedIn. Stay tuned for updates on my portfolio!
+Feel free to stop by https://www.tommyminterdev.com/ or reach out to me via email or connect with me on LinkedIn. 
+Stay tuned for updates on my portfolio!
 
