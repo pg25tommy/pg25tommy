@@ -77,7 +77,7 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 ## 🚀 Current Project
 
 ### [Lay-Off](https://github.com/vfs-sct/GD72PG25FP-LayOff)
-A 3rd person, 4-player networked multiplayer trap placement deathmatch game. 
+Lay-Off" is an intense, high-stakes, 3rd person, full-body view, online 4-player multiplayer trap placement deathmatch set in the cutthroat world of espionage. Players assume the roles of elite spies working for an underground agency facing severe budget cuts due to inflation. Forced into a deadly competition to secure their positions, these spies must outsmart and outlast their rivals in a secret base until only one remains.
 
 
 
