@@ -63,7 +63,7 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 
 ## 🚀 Current Project
 
-### [Lay-Off](https://github.com/yourusername/lay-off)
+### [Lay-Off](https://github.com/vfs-sct/GD72PG25FP-LayOff)
 A 3rd person, 4-player networked multiplayer trap placement deathmatch game. 
 
 
