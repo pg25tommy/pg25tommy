@@ -1,7 +1,7 @@
 <img src="https://github.com/pg25tommy/pg25tommy/blob/main/Orange%20Simple%20Game%20Linkedin%20Banner.png" alt="Banner" style="width:100%;">
 
 
-# Hi, I'm Tommy Minter your friendly neighborhood game developer.
+# Hi, I'm Tommy 
 
 ## 🎮 About Me
 
