@@ -74,9 +74,12 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 
 # 🚀 Current Project
 
-### [Lay-Off](https://github.com/vfs-sct/GD72PG25FP-LayOff)
-Lay-Off" is an intense, high-stakes, 3rd person, full-body view, online 4-player multiplayer trap placement deathmatch set in the cutthroat world of espionage. Players assume the roles of elite spies working for an underground agency facing severe budget cuts due to inflation. Forced into a deadly competition to secure their positions, these spies must outsmart and outlast their rivals in a secret base until only one remains.
+### [Project Lazarus](https://github.com/AlexBuzmion/ProjectLazarus.git)
+Project Lazarus is a full-scale version of the our original Lay-Off game, a strategic multiplayer experience where players navigate through corporate office environments filled with traps and hazards. Your mission is to outsmart opponents by gathering key resources and utilizing a variety of tools to escape or sabotage others, all while managing energy and avoiding deadly traps.
 
+
+~~### [Lay-Off](https://github.com/vfs-sct/GD72PG25FP-LayOff)
+"Lay-Off" is an intense, high-stakes, 3rd person, full-body view, online 4-player multiplayer trap placement deathmatch set in the cutthroat world of espionage. Players assume the roles of elite spies working for an underground agency facing severe budget cuts due to inflation. Forced into a deadly competition to secure their positions, these spies must outsmart and outlast their rivals in a secret base until only one remains.~~
 
 
 # 🎯 Goals
