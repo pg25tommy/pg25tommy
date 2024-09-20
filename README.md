@@ -75,7 +75,7 @@ I'm a motivated and passionate newcomer in the game development industry, based 
 # 🚀 Current Project
 
 ### [Project Lazarus](https://github.com/AlexBuzmion/ProjectLazarus.git)
-Project Lazarus is a full-scale version of the our original Lay-Off game, a strategic multiplayer experience where players navigate through corporate office environments filled with traps and hazards. Your mission is to outsmart opponents by gathering key resources and utilizing a variety of tools to escape or sabotage others, all while managing energy and avoiding deadly traps.
+Project Lazarus is a full-scale version of our original Lay-Off game built from the ground up in Unreal, a strategic multiplayer experience where players navigate through corporate office environments filled with traps and hazards. Your mission is to outsmart opponents by gathering key resources and utilizing a variety of tools to escape or sabotage others, all while managing energy and avoiding deadly traps.
 
 
 ~~### [Lay-Off](https://github.com/vfs-sct/GD72PG25FP-LayOff)
