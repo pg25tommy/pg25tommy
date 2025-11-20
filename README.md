@@ -101,6 +101,6 @@ Project Lazarus is a full-scale version of our original Lay-Off game built from 
 
 ### 📫 Let's Connect!
 
-Feel free to stop by https://www.tommyminterdev.com/ or reach out to me via email or connect with me on LinkedIn. 
+Feel free to stop by https://tommyminterdev.com/ or reach out to me via email or connect with me on LinkedIn. 
 Stay tuned for updates on my portfolio!
 
